@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-07T06:22:54Z",
+  "IdClaims": [
+    {
+      "Claim": "t:alexhdoesstuff"
+    },
+    {
+      "Claim": "gh:alex-does-stuff"
+    },
+    {
+      "Claim": "mdon:@alexdoesstuff@masto.ai"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "1bdb62009096250eceb99ec7",
+    "Timestamp": "2023-04-07T06:25:15Z",
+    "Signature": "133171a69dd0678411fefa863b444b66515bd831aeb5e75ac124cb66c571a8439bac8770ffecdff53edf1e9d1ebc93f1ce2582dae575e8830f21e9906b5ea7779cf1f84ce19d41ef3b15a4676e622eae0b3d18e6d4457cc1103ad2ed01934e2be8ffcf1c254b983166c00eb98b421ba62cf5ed8e25157a28f5be3ecfefa1bc16978abdc232d0fca3edcdbb7254e4d99a0d17930a7e2baeb47129cb9d667a6164412bb5d470bd58cac1e7600e7549e7eab98890d546704d61b777a3a56bb90fe56f5b3dd8110b8642510eef1ba36fea44b12a24abeb1f89430200b3759feb2d30bc8889f9ba4533c0091a2e18584dcfbed496b9d867affe1ee9c652517c2dc9ac"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "4c015dc4e6b846aed4460b747c2a2175db2f99b22e9ea28c2968e8ce2e9ebf22",
+  "ContentToHash": "v1|gh:alex-does-stuff,mdon:@alexdoesstuff@masto.ai,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:alexhdoesstuff|2023-04-07T06:22:54Z"
+}
